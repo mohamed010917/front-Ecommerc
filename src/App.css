@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.text-main{
+    --tw-text-opacity: 1 ;
+    color:rgb(244 44 55 / var(--tw-text-opacity)) ;
+}
